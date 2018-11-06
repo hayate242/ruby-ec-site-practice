@@ -1,0 +1,15 @@
+current directory: /Users/hayate/repositories/ruby-EC/shop/ec/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.3.2/ext/bootsnap
+/Users/hayate/.rbenv/versions/2.4.2/bin/ruby -r ./siteconf20181105-86803-16vhtrr.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hayate/repositories/ruby-EC/shop/ec/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/hayate/repositories/ruby-EC/shop/ec/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/hayate/repositories/ruby-EC/shop/ec/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20181105-86803-d592yr/bootsnap
